@@ -1,0 +1,25 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css";
+.container {
+  margin-top: 100px;
+  width: 100%;
+}
+.row {
+  width: 306px;
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: #000;
+}
+.box {
+  float: left;
+  border: 1px solid #000;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 110px;
+  line-height: 0.95em;
+}
+#button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
